@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Lars Kellogg-Stedman <lars@redhat.com>
+Workflow+1: Lars Kellogg-Stedman <lars@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 Mar 2015 19:57:50 +0000
+Reviewed-on: https://review.openstack.org/168093
+Project: stackforge/heat-coe-templates
+Branch: refs/heads/master
