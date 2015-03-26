@@ -1,4 +1,4 @@
 [gerrit]
-host=review.gerrithub.io
+host=review.openstack.org
 port=29418
-project=larsks/heat-kubernetes.git
+project=stackforge/heat-coe-templates.git
