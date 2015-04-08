@@ -1,0 +1,2 @@
+include heat_coe_templates/*.yaml
+graft heat_coe_templates/fragments
