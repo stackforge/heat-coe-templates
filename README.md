@@ -49,7 +49,7 @@ And then create the stack, referencing that environment file:
 You must provide values for:
 
 - `ssh_key_name`
-- `external_network_id`
+- `external_network`
 - `server_image`
 
 ## Interacting with Kubernetes
@@ -67,8 +67,8 @@ You can ssh into that server as the `minion` user:
 And once logged in you can run `kubectl`, etc:
 
     $ kubectl get minions
-    NAME                LABELS
-    10.0.0.4            <none>
+    NAME                LABELS      STATUS
+    10.0.0.4            <none>      Ready
 
 You can log into your minions using the `minion` user as well.  You
 can get a list of minion addresses by running:
