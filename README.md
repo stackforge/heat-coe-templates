@@ -1,3 +1,11 @@
+THIS MODULE IS NO LONGER MAINTAINED
+===================================
+
+See this [mailing list][] post or ask on #openstack-containers on
+freenode for details.
+
+[mailing list]: http://lists.openstack.org/pipermail/openstack-dev/2015-July/070321.html
+
 A Kubernetes cluster with Heat
 ==============================
 
